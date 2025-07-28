@@ -1,0 +1,5 @@
+# Created Xlib based VkInstance 
+# fetched available extensions and printed them
+
+UPDATE
+# Added physical device selection based on Descret GPU and Geometry shader support

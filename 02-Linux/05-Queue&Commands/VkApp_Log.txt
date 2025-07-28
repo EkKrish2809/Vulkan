@@ -1,0 +1,316 @@
+Debug Callback : linux_read_sorted_physical_devices:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :      Original order:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [2] llvmpipe (LLVM 15.0.6, 256 bits)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [3] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :      Sorted order:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [1] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [2] AMD Radeon Graphics (RADV RENOIR)  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [3] llvmpipe (LLVM 15.0.6, 256 bits)  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 0 into new device 0
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 1 into new device 1
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 2 into new device 2
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 3 into new device 3
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : linux_read_sorted_physical_devices:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :      Original order:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [2] llvmpipe (LLVM 15.0.6, 256 bits)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [3] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :      Sorted order:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [1] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [2] AMD Radeon Graphics (RADV RENOIR)  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [3] llvmpipe (LLVM 15.0.6, 256 bits)  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 0 into new device 0
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 1 into new device 1
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 2 into new device 2
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 3 into new device 3
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : linux_read_sorted_physical_devices:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :      Original order:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [2] llvmpipe (LLVM 15.0.6, 256 bits)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [3] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :      Sorted order:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [1] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [2] AMD Radeon Graphics (RADV RENOIR)  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [3] llvmpipe (LLVM 15.0.6, 256 bits)  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 0 into new device 0
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 1 into new device 1
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 2 into new device 2
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 3 into new device 3
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : linux_read_sorted_physical_devices:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :      Original order:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [2] llvmpipe (LLVM 15.0.6, 256 bits)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [3] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :      Sorted order:
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [1] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [2] AMD Radeon Graphics (RADV RENOIR)  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :            [3] llvmpipe (LLVM 15.0.6, 256 bits)  
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 0 into new device 0
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 1 into new device 1
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 2 into new device 2
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Copying old device 3 into new device 3
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Inserted device layer "VK_LAYER_KHRONOS_validation" (libVkLayer_khronos_validation.so)
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback : Failed to find vkGetDeviceProcAddr in layer "libVkLayer_MESA_device_select.so"
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
+Debug Callback :        Using "NVIDIA GeForce RTX 3060 Laptop GPU" with driver: "libGLX_nvidia.so.0"
+
+	Severity : INFO
+	Type : GENERAL
+	Objects 5579be7f2380 
+	Object 0 : No Name
