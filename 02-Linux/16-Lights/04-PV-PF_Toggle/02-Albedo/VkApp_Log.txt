@@ -1,0 +1,625 @@
+Debug Callback : linux_read_sorted_physical_devices:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      Original order:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [2] llvmpipe (LLVM 19.1.1, 256 bits)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      Sorted order:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [2] llvmpipe (LLVM 19.1.1, 256 bits)  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 0 into new device 0
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 1 into new device 1
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 2 into new device 2
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : linux_read_sorted_physical_devices:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      Original order:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [2] llvmpipe (LLVM 19.1.1, 256 bits)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      Sorted order:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [2] llvmpipe (LLVM 19.1.1, 256 bits)  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 0 into new device 0
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 1 into new device 1
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 2 into new device 2
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : linux_read_sorted_physical_devices:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      Original order:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [2] llvmpipe (LLVM 19.1.1, 256 bits)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      Sorted order:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [2] llvmpipe (LLVM 19.1.1, 256 bits)  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 0 into new device 0
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 1 into new device 1
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 2 into new device 2
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : linux_read_sorted_physical_devices:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      Original order:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [2] llvmpipe (LLVM 19.1.1, 256 bits)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      Sorted order:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [0] NVIDIA GeForce RTX 3060 Laptop GPU  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [1] AMD Radeon Graphics (RADV RENOIR)  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            [2] llvmpipe (LLVM 19.1.1, 256 bits)  
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 0 into new device 0
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 1 into new device 1
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Copying old device 2 into new device 2
+	Severity : VERBOSE
+	Type : GENERAL
+	Objects Debug Callback : Inserted device layer "VK_LAYER_KHRONOS_validation" (libVkLayer_khronos_validation.so)
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback : Failed to find vkGetDeviceProcAddr in layer "libVkLayer_MESA_device_select.so"
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback : vkCreateDevice layer callstack setup to:
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :    <Application>
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      ||
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :    <Loader>
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      ||
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :    VK_LAYER_KHRONOS_validation
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            Type: Explicit
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            Manifest: /usr/share/vulkan/explicit_layer.d/VkLayer_khronos_validation.json
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :            Library:  libVkLayer_khronos_validation.so
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :      ||
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :    <Device>
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback :        Using "NVIDIA GeForce RTX 3060 Laptop GPU" with driver: "libGLX_nvidia.so.0"
+	Severity : INFO
+	Type : GENERAL
+	Objects Debug Callback : Validation Error: [ VUID-vkDestroyBuffer-buffer-00922 ] | MessageID = 0xe4549c11 | vkDestroyBuffer():  can't be called on VkBuffer 0x220000000022[] that is currently in use by VkDescriptorSet 0x280000000028[]. The Vulkan spec states: All submitted commands that refer to buffer, either directly or via a VkBufferView, must have completed execution (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyBuffer-buffer-00922)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects Debug Callback : Validation Error: [ VUID-vkDestroyDescriptorSetLayout-descriptorSetLayout-parameter ] Object 0: handle = 0x5f5bbf18cb10, type = VK_OBJECT_TYPE_INSTANCE; | MessageID = 0x78f350ea | vkDestroyDescriptorSetLayout(): descriptorSetLayout Invalid VkDescriptorSetLayout Object 0xc000000000c. The Vulkan spec states: If descriptorSetLayout is not VK_NULL_HANDLE, descriptorSetLayout must be a valid VkDescriptorSetLayout handle (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDescriptorSetLayout-descriptorSetLayout-parameter)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	5f5bbf18cb10 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ UNASSIGNED-Threading-Info ] Object 0: handle = 0xc000000000c, type = VK_OBJECT_TYPE_DESCRIPTOR_SET_LAYOUT; | MessageID = 0x5d6b67e2 | vkDestroyDescriptorSetLayout():  Couldn't find VkDescriptorSetLayout Object 0xc000000000c. This should not happen and may indicate a bug in the application.
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	c000000000c 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ UNASSIGNED-Threading-Info ] Object 0: handle = 0xc000000000c, type = VK_OBJECT_TYPE_DESCRIPTOR_SET_LAYOUT; | MessageID = 0x5d6b67e2 | vkDestroyDescriptorSetLayout():  Couldn't find VkDescriptorSetLayout Object 0xc000000000c. This should not happen and may indicate a bug in the application.
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	c000000000c 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkFreeMemory-memory-00677 ] | MessageID = 0x485c8ea2 | vkFreeMemory():  can't be called on VkDeviceMemory 0x1f000000001f[] that is currently in use by VkBuffer 0x1e000000001e[]. The Vulkan spec states: All submitted commands that refer to memory (via images or buffers) must have completed execution (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkFreeMemory-memory-00677)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects Debug Callback : Validation Error: [ VUID-vkFreeMemory-memory-00677 ] | MessageID = 0x485c8ea2 | vkFreeMemory():  can't be called on VkDeviceMemory 0x1b000000001b[] that is currently in use by VkBuffer 0x1a000000001a[]. The Vulkan spec states: All submitted commands that refer to memory (via images or buffers) must have completed execution (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkFreeMemory-memory-00677)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects Debug Callback : Validation Error: [ VUID-vkDestroyPipeline-pipeline-00765 ] | MessageID = 0x6bdce5fd | vkDestroyPipeline():  can't be called on VkPipeline 0x130000000013[] that is currently in use by VkCommandBuffer 0x5f5bc0bd5390[]. The Vulkan spec states: All submitted commands that refer to pipeline must have completed execution (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyPipeline-pipeline-00765)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects Debug Callback : Validation Error: [ VUID-vkDestroyImageView-imageView-01026 ] | MessageID = 0x63ac21f0 | vkDestroyImageView():  can't be called on VkImageView 0x8b000000008b[] that is currently in use by VkFramebuffer 0x920000000092[]. The Vulkan spec states: All submitted commands that refer to imageView must have completed execution (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyImageView-imageView-01026)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects Debug Callback : Validation Error: [ VUID-vkDestroyImageView-imageView-01026 ] | MessageID = 0x63ac21f0 | vkDestroyImageView():  can't be called on VkImageView 0x8c000000008c[] that is currently in use by VkFramebuffer 0x930000000093[]. The Vulkan spec states: All submitted commands that refer to imageView must have completed execution (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyImageView-imageView-01026)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects Debug Callback : Validation Error: [ VUID-vkDestroyImageView-imageView-01026 ] | MessageID = 0x63ac21f0 | vkDestroyImageView():  can't be called on VkImageView 0x8d000000008d[] that is currently in use by VkFramebuffer 0x940000000094[]. The Vulkan spec states: All submitted commands that refer to imageView must have completed execution (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyImageView-imageView-01026)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects Debug Callback : Validation Error: [ VUID-vkDestroyRenderPass-renderPass-00873 ] | MessageID = 0x473619ad | vkDestroyRenderPass():  can't be called on VkRenderPass 0x8e000000008e[] that is currently in use by VkCommandBuffer 0x5f5bc0bd5390[]. The Vulkan spec states: All submitted commands that refer to renderPass must have completed execution (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyRenderPass-renderPass-00873)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x140000000014, type = VK_OBJECT_TYPE_IMAGE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImage 0x140000000014[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	140000000014 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x810000000081, type = VK_OBJECT_TYPE_IMAGE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImage 0x810000000081[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	810000000081 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x570000000057, type = VK_OBJECT_TYPE_IMAGE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImage 0x570000000057[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	570000000057 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x3b000000003b, type = VK_OBJECT_TYPE_IMAGE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImage 0x3b000000003b[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	3b000000003b 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x490000000049, type = VK_OBJECT_TYPE_IMAGE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImage 0x490000000049[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	490000000049 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x650000000065, type = VK_OBJECT_TYPE_IMAGE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImage 0x650000000065[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	650000000065 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x8f000000008f, type = VK_OBJECT_TYPE_IMAGE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImage 0x8f000000008f[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	8f000000008f 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x730000000073, type = VK_OBJECT_TYPE_IMAGE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImage 0x730000000073[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	730000000073 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x820000000082, type = VK_OBJECT_TYPE_DEVICE_MEMORY; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDeviceMemory 0x820000000082[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	820000000082 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x150000000015, type = VK_OBJECT_TYPE_DEVICE_MEMORY; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDeviceMemory 0x150000000015[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	150000000015 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x3c000000003c, type = VK_OBJECT_TYPE_DEVICE_MEMORY; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDeviceMemory 0x3c000000003c[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	3c000000003c 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x900000000090, type = VK_OBJECT_TYPE_DEVICE_MEMORY; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDeviceMemory 0x900000000090[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	900000000090 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x740000000074, type = VK_OBJECT_TYPE_DEVICE_MEMORY; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDeviceMemory 0x740000000074[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	740000000074 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x4a000000004a, type = VK_OBJECT_TYPE_DEVICE_MEMORY; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDeviceMemory 0x4a000000004a[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	4a000000004a 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x660000000066, type = VK_OBJECT_TYPE_DEVICE_MEMORY; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDeviceMemory 0x660000000066[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	660000000066 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x580000000058, type = VK_OBJECT_TYPE_DEVICE_MEMORY; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDeviceMemory 0x580000000058[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	580000000058 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x7e000000007e, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x7e000000007e[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	7e000000007e 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x540000000054, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x540000000054[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	540000000054 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x830000000083, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x830000000083[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	830000000083 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x7f000000007f, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x7f000000007f[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	7f000000007f 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x550000000055, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x550000000055[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	550000000055 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x3d000000003d, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x3d000000003d[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	3d000000003d 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x7d000000007d, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x7d000000007d[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	7d000000007d 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x160000000016, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x160000000016[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	160000000016 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x6f000000006f, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x6f000000006f[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	6f000000006f 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x450000000045, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x450000000045[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	450000000045 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x530000000053, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x530000000053[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	530000000053 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x460000000046, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x460000000046[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	460000000046 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x380000000038, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x380000000038[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	380000000038 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x910000000091, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x910000000091[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	910000000091 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x470000000047, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x470000000047[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	470000000047 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x390000000039, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x390000000039[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	390000000039 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x610000000061, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x610000000061[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	610000000061 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x4b000000004b, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x4b000000004b[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	4b000000004b 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0xa000000000a, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0xa000000000a[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	a000000000a 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x750000000075, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x750000000075[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	750000000075 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x370000000037, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x370000000037[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	370000000037 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x630000000063, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x630000000063[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	630000000063 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x80000000008, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x80000000008[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	80000000008 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x620000000062, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x620000000062[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	620000000062 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x90000000009, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x90000000009[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	90000000009 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x710000000071, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x710000000071[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	710000000071 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x700000000070, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x700000000070[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	700000000070 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x590000000059, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x590000000059[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	590000000059 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x670000000067, type = VK_OBJECT_TYPE_IMAGE_VIEW; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkImageView 0x670000000067[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	670000000067 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0xe000000000e, type = VK_OBJECT_TYPE_SHADER_MODULE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkShaderModule 0xe000000000e[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	e000000000e 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0xd000000000d, type = VK_OBJECT_TYPE_SHADER_MODULE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkShaderModule 0xd000000000d[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	d000000000d 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x120000000012, type = VK_OBJECT_TYPE_PIPELINE; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkPipeline 0x120000000012[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	120000000012 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x800000000080, type = VK_OBJECT_TYPE_RENDER_PASS; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkRenderPass 0x800000000080[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	800000000080 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x560000000056, type = VK_OBJECT_TYPE_RENDER_PASS; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkRenderPass 0x560000000056[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	560000000056 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x3a000000003a, type = VK_OBJECT_TYPE_RENDER_PASS; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkRenderPass 0x3a000000003a[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	3a000000003a 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0xb000000000b, type = VK_OBJECT_TYPE_RENDER_PASS; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkRenderPass 0xb000000000b[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	b000000000b 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x480000000048, type = VK_OBJECT_TYPE_RENDER_PASS; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkRenderPass 0x480000000048[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	480000000048 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x640000000064, type = VK_OBJECT_TYPE_RENDER_PASS; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkRenderPass 0x640000000064[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	640000000064 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x720000000072, type = VK_OBJECT_TYPE_RENDER_PASS; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkRenderPass 0x720000000072[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	720000000072 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x280000000028, type = VK_OBJECT_TYPE_DESCRIPTOR_SET; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDescriptorSet 0x280000000028[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	280000000028 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x290000000029, type = VK_OBJECT_TYPE_DESCRIPTOR_SET; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDescriptorSet 0x290000000029[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	290000000029 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x270000000027, type = VK_OBJECT_TYPE_DESCRIPTOR_SET; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDescriptorSet 0x270000000027[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	270000000027 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x260000000026, type = VK_OBJECT_TYPE_DESCRIPTOR_POOL; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkDescriptorPool 0x260000000026[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	260000000026 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x3f000000003f, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x3f000000003f[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	3f000000003f 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x6a000000006a, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x6a000000006a[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	6a000000006a 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x400000000040, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x400000000040[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	400000000040 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x3e000000003e, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x3e000000003e[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	3e000000003e 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x690000000069, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x690000000069[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	690000000069 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x170000000017, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x170000000017[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	170000000017 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x680000000068, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x680000000068[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	680000000068 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x860000000086, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x860000000086[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	860000000086 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x850000000085, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x850000000085[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	850000000085 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x840000000084, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x840000000084[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	840000000084 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x780000000078, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x780000000078[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	780000000078 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x760000000076, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x760000000076[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	760000000076 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x5c000000005c, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x5c000000005c[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	5c000000005c 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x770000000077, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x770000000077[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	770000000077 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x5b000000005b, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x5b000000005b[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	5b000000005b 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x4e000000004e, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x4e000000004e[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	4e000000004e 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x5a000000005a, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x5a000000005a[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	5a000000005a 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x4c000000004c, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x4c000000004c[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	4c000000004c 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x180000000018, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x180000000018[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	180000000018 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x4d000000004d, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x4d000000004d[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	4d000000004d 
+	Object 0 : No Name
+Debug Callback : Validation Error: [ VUID-vkDestroyDevice-device-05137 ] Object 0: handle = 0x190000000019, type = VK_OBJECT_TYPE_FRAMEBUFFER; | MessageID = 0x4872eaa0 | vkCreateDevice():  OBJ ERROR : For VkDevice 0x5f5bc0601f70[], VkFramebuffer 0x190000000019[] has not been destroyed. The Vulkan spec states: All child objects created on device must have been destroyed prior to destroying device (https://www.khronos.org/registry/vulkan/specs/1.3-extensions/html/vkspec.html#VUID-vkDestroyDevice-device-05137)
+	Severity : ERROR
+	Type : VALIDATION
+	Objects 	190000000019 
+	Object 0 : No Name
