@@ -5,3 +5,5 @@ VulkanApp
 *.exe
 *.obj
 *.res
+
+*.spv
